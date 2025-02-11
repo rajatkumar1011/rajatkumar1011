@@ -20,7 +20,7 @@ FY BTech AI&DS Student at KJ Somaiya College of Engineering, SVU, Mumbai
 ### 🔗 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/rajatkumar7)  
-- [Portfolio/Website](https://rajatkumar1011.github.io/)  
+- [Portfolio](https://rajatkumar1011.github.io/)  
 
 ---
 
