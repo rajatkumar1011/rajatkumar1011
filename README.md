@@ -1,16 +1,27 @@
-## Hi there 👋
+# Rajat Kumar
 
-<!--
-**rajatkumar1011/rajatkumar1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate, enthusiastic, and skilled coder, currently pursuing B.Tech in AI & Data Science at **KJ Somaiya College of Engineering, Mumbai**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Skills & Expertise
+
+- **Programming:** Python, C 
+- **Data Science:** Machine Learning, Data Visualization, Statistical Analysis
+
+---
+
+### 📈 GitHub Stats
+
+![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatkumar1011&show_icons=true&theme=radical)
+
+---
+
+### 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rajatkumar7)  
+- [Portfolio/Website](https://rajatkumar1011.github.io/)  
+
+---
+
+Feel free to connect or collaborate on exciting projects! 🌟
