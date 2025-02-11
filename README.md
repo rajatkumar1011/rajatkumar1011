@@ -1,6 +1,6 @@
 # Rajat Kumar
 
-Passionate, enthusiastic, and skilled coder, currently pursuing B.Tech in AI & Data Science at **KJ Somaiya College of Engineering, Mumbai**.
+FY BTech AI&DS Student at KJ Somaiya College of Engineering, SVU, Mumbai
 
 ---
 
