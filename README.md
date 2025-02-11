@@ -6,7 +6,7 @@ FY BTech AI&DS Student at KJ Somaiya College of Engineering, SVU, Mumbai
 
 ### 🚀 Skills & Expertise
 
-- **Programming:** Python, C 
+- **Programming:** MatLab, Python, C
 - **Data Science:** Machine Learning, Data Visualization, Statistical Analysis
 
 ---
