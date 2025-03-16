@@ -38,3 +38,7 @@ FY BTech AI&DS Student at KJ Somaiya College of Engineering, SVU, Mumbai
 ---
 
 Feel free to connect or collaborate on exciting projects! 🌟
+
+---
+<h2 align="center"><b>Visitor's Count</b></h2>
+<p align="center"><img src="https://profile-counter.glitch.me/rajatkumar1011/count.svg" alt="visitor badge"/></p>
