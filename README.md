@@ -1,3 +1,5 @@
+[<img src="https://raw.githubusercontent.com/rajatkumar1011/rajatkumar1011/main/intro_banner_animation.gif" alt="👋 Hi there! I'm Rajat Kumar|https://rajatkumar1.me" title="👋 Hi there! I'm RajatKumar|https://rajatkumar1.me"/>](https://rajatkumar1.me/)
+
 <h1 align="center">Hi 👋, I'm Rajat Kumar</h1>
 <h3 align="center">A Passionate Developer from India</h3>
 
