@@ -1,6 +1,5 @@
-<a href="https://rajatkumar1.me/">
-<img src="resources/intro_banner_animation.gif" alt="👋 Hi there! I'm Rajat Kumar" width="100%"/>
-</a>
+[![👋 Hi there! I'm Rajat Kumar](resources/intro_banner_animation.gif)](https://rajatkumar1.me)
+
 
 <b>Rajat Kumar</b>
 
