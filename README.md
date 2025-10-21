@@ -1,5 +1,4 @@
-[![👋 Hi there! I'm Rajat Kumar](resources/intro_banner_animation.gif)](https://rajatkumar1.me)
-
+<a href="https://rajatkumar1.me"><img loading="lazy" src="resources/intro_banner_animation.gif" alt="https://rajatkumar1.me" /></a>
 
 <b>Rajat Kumar</b>
 
