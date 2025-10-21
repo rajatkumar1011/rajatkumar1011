@@ -73,8 +73,9 @@
 ### Currently Working On
 
 [![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![Pellucide]](https://pellucide.tech/)
+[![Pellucide](blob:https://www-towrco-in.filesusr.com/3b137692-dd10-4306-9b50-b8ace7d4c7ec)](https://pellucide.tech/)
 
+### 
 
 <p align="center">
   <a href="https://github.com/rajatkumar1011">
@@ -86,6 +87,7 @@
   <a href="https://github.com/rajatkumar1011">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
   </a>
+
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views"/>
