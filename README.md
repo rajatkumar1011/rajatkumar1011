@@ -76,7 +76,6 @@
 [![Pellucide]](https://pellucide.tech/)
 
 
-<details>
 <p align="center">
   <a href="https://github.com/rajatkumar1011">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
@@ -87,8 +86,6 @@
   <a href="https://github.com/rajatkumar1011">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
   </a>
-</details>
-
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views"/>
