@@ -6,7 +6,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
    <a>
-        I'm Rajat Kumar, a passionate coder exploring the realms of technology.
+        I'm Rajat Kumar, a passionate coder exploring the realms of technology!
     </a>
     <br>
     <br>
@@ -73,7 +73,7 @@
 ### Currently Working On
 
 [![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![Pellucide](blob:https://www-towrco-in.filesusr.com/3b137692-dd10-4306-9b50-b8ace7d4c7ec)](https://pellucide.tech/)
+[![Pellucide](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://pellucide.tech)
 
 ### 
 
