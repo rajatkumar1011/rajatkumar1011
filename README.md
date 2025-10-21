@@ -1,5 +1,5 @@
 <a href="https://rajatkumar1.me" target="_blank">
-  <img loading="lazy" src="resources/intro_banner_animation.gif" alt="https://rajatkumar1.me" />
+  <img loading="lazy" src="resources/intro_banner_animation.gif" alt="https://rajatkumar1.me"/>
 </a>
 
 
@@ -70,12 +70,7 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/rajatkumar1011)
 
 
-### Currently Working On
-
-[![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
-[![Pellucide](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://pellucide.tech)
-
-### 
+### Github Stats
 
 <p align="center">
   <a href="https://github.com/rajatkumar1011">
