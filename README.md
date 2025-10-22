@@ -31,14 +31,14 @@
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/rajatkumar1011)
 [![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/rajatkumar1011)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/rajatkumar1011)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)](https://github.com/rajatkumar1011) 
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)](https://github.com/rajatkumar1011)
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://github.com/rajatkumar1011)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/rajatkumar1011)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)](https://github.com/rajatkumar1011)
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/rajatkumar1011)
 [![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman)](https://github.com/rajatkumar1011)
 [![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)](https://github.com/rajatkumar1011)
-[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/rajatkumar1011) 
+[![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/rajatkumar1011)
 [![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)](https://github.com/rajatkumar1011)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)](https://github.com/rajatkumar1011)
 [![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)](https://github.com/rajatkumar1011)
@@ -57,22 +57,28 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/rajatkumar1011)
 
 ### Github Stats
-<div align="center">
+
   <div align="center">
   <p align="center">
-    <a href="https://github.com/rajatkumar1011">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
-    </a>
-    <a href="https://github.com/rajatkumar1011">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
-    </a>
-    <a href="https://github.com/rajatkumar1011">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
-    </a>
+      <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+
+  <a href="https://github.com/rajatkumar1011">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
+  </a>
+
+  <a href="https://github.com/rajatkumar1011">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+
+  <a href="https://github.com/rajatkumar1011">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
+  </a>
+
+</div>
+
   </p>
   </div>
   
   <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views"/>
-</div>
+       <img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views"/>
 </div>
