@@ -5,7 +5,10 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <span>I'm Rajat Kumar, a passionate coder exploring the realms of technology!</span>
-    <br><br>
+    <br><br><br>
+  <a href="https://wakatime.com/@7b631ad4-445a-4e1f-a9df-ba2c6f2b6858"><img src="https://wakatime.com/badge/user/7b631ad4-445a-4e1f-a9df-ba2c6f2b6858.svg" alt="Total time coded since Oct 21 2025" /></a>
+  
+  <br>
     <div align="center">
 
 <a href="https://linkedin.com/in/rajatkumar7"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
