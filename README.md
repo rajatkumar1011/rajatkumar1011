@@ -10,7 +10,7 @@
     </a>
     <br>
     <br>
-    <a href="https://wakatime.com/@rajatkumar1"><img src="https://wakatime.com/badge/user/8b999ae1-26d0-42d9-af06-0f461bf20c0d.svg" alt="Total time coded since 21/10/2025" /></a>
+    <a href="https://wakatime.com/@rajatkumar1"><img src="https://wakatime.com/badge/user/7b631ad4-445a-4e1f-a9df-ba2c6f2b6858.svg" alt="Total time coded since 21/10/2025" /></a>
     <br>
     <br>
     <a href="https://www.linkedin.com/in/rajatkumar7/">
