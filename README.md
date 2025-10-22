@@ -2,31 +2,20 @@
   <img loading="lazy" src="resources/intro_banner_animation.gif" alt="https://rajatkumar1.me"/>
 </a>
 
-
 <p align="center">
     <b>Welcome to my page!</b><br><br>
-   <a>
-        I'm Rajat Kumar, a passionate coder exploring the realms of technology!
-    </a>
-    <br>
-    <br>
-    <a href="https://wakatime.com/@rajatkumar1"><img src="https://wakatime.com/badge/user/7b631ad4-445a-4e1f-a9df-ba2c6f2b6858.svg" alt="Total time coded since 21/10/2025" /></a>
-    <br>
-    <br>
-    <a href="https://www.linkedin.com/in/rajatkumar7/">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://leetcode.com/rajatkumar1/">
-        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
-    </a>
-    <a href="https://www.codechef.com/users/rajatkumar1011">
-        <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef">
-    </a>
-    <a href="https://codeforces.com/profile/rajatkumar1011">
-        <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">
-    </a>
-</p>
+    <span>I'm Rajat Kumar, a passionate coder exploring the realms of technology!</span>
+    <br><br>
+    <div align="center">
 
+<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/yourprofile"><img src="https://img.shields.io/badge/CODECHEF-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/yourprofile"><img src="https://img.shields.io/badge/CODEFORCES-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+
+</div>
+
+</p>
 
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/rajatkumar1011)
@@ -36,7 +25,6 @@
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/rajatkumar1011)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/rajatkumar1011)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/rajatkumar1011)
-
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/rajatkumar1011)
@@ -64,26 +52,27 @@
 [![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=for-the-badge&logo=graphql&logoColor=white)](https://github.com/rajatkumar1011)
 [![Solidity](https://img.shields.io/badge/Solidity-%23000000.svg?style=for-the-badge&logo=solidity&logoColor=white)](https://github.com/rajatkumar1011)
 
-
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/rajatkumar1011)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/rajatkumar1011)
 
-
 ### Github Stats
-
-<p align="center">
-  <a href="https://github.com/rajatkumar1011">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
-  </a>
-  <a href="https://github.com/rajatkumar1011">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/rajatkumar1011">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
-  </a>
-
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views"/>
+  <div align="center">
+  <p align="center">
+    <a href="https://github.com/rajatkumar1011">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
+    </a>
+    <a href="https://github.com/rajatkumar1011">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
+    </a>
+    <a href="https://github.com/rajatkumar1011">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
+    </a>
+  </p>
+  </div>
+  
+  <div align="center">
+      <img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views"/>
+</div>
 </div>
