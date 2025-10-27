@@ -1,32 +1,24 @@
 <a href="https://rajatkumar1.me" target="_blank">
-  <img loading="lazy" src="resources/intro_banner_animation.gif" alt="https://rajatkumar1.me" />
+  <img loading="lazy" src="resources/intro_banner_animation.gif" alt="https://rajatkumar1.me"/>
 </a>
 
+
 <p align="center">
-  <b>Welcome to my page!</b><br><br>
-  <span>I'm Rajat Kumar, a passionate coder exploring the realms of technology!</span>
-  <br><br><br>
-
-  <a href="https://wakatime.com/@7b631ad4-445a-4e1f-a9df-ba2c6f2b6858">
-    <img src="https://wakatime.com/badge/user/7b631ad4-445a-4e1f-a9df-ba2c6f2b6858.svg" alt="Total time coded since Oct 21 2025" />
-  </a>
-
+    <b>Welcome to my page!</b><br><br>
+    <span>I'm Rajat Kumar, a passionate coder exploring the realms of technology!</span>
+    <br><br><br>
+  <a href="https://wakatime.com/@7b631ad4-445a-4e1f-a9df-ba2c6f2b6858"><img src="https://wakatime.com/badge/user/7b631ad4-445a-4e1f-a9df-ba2c6f2b6858.svg" alt="Total time coded since Oct 21 2025" /></a>
+  
   <br>
+    <div align="center">
 
-  <div align="center">
-    <a href="https://linkedin.com/in/rajatkumar7">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://leetcode.com/rajatkumar1">
-      <img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
-    </a>
-    <a href="https://www.codechef.com/users/rajatkumar1011">
-      <img src="https://img.shields.io/badge/CODECHEF-964B00?style=for-the-badge&logo=codechef&logoColor=white" />
-    </a>
-    <a href="https://codeforces.com/profile/rajatkumar1011">
-      <img src="https://img.shields.io/badge/CODEFORCES-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" />
-    </a>
-  </div>
+<a href="https://linkedin.com/in/rajatkumar7"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/rajatkumar1"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/rajatkumar1011"><img src="https://img.shields.io/badge/CODECHEF-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/rajatkumar1011"><img src="https://img.shields.io/badge/CODEFORCES-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+
+</div>
+
 </p>
 
 ### Languages
@@ -69,26 +61,28 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/rajatkumar1011)
 
 ### Github Stats
-<div align="center">
+
+  <div align="center">
   <p align="center">
-    <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
+      <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 10px;">
 
-      <a href="https://github.com/rajatkumar1011">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
-      </a>
+  <a href="https://github.com/rajatkumar1011">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
+  </a>
 
-      <a href="https://github.com/rajatkumar1011">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
-      </a>
+  <a href="https://github.com/rajatkumar1011">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
+  </a>
 
-      <a href="https://github.com/rajatkumar1011">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
-      </a>
+  <a href="https://github.com/rajatkumar1011">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
+  </a>
 
-    </div>
+</div>
+
   </p>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views" />
-</div>
+  </div>
+  
+  <div align="center">
+       <img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views"/>
+  </div>
