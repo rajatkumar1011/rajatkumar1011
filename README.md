@@ -71,7 +71,7 @@
   </a>
 
   <a href="https://github.com/rajatkumar1011">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
+    <img src="http://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
   </a>
 
   <a href="https://github.com/rajatkumar1011">
