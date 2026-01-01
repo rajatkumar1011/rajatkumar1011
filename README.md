@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/rajatkumar7"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/rajatkumar1"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/rajatkumar1011"><img src="https://img.shields.io/badge/CODECHEF-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/rajatkumar1011"><img src="https://img.shields.io/badge/CODEFORCES-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/rajatkumar.1"><img src="https://img.shields.io/badge/CODEFORCES-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
 </div>
 
