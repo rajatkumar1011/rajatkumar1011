@@ -72,9 +72,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
   </a>
 
-  <a href="https://github.com/rajatkumar1011">
+<!---  <a href="https://github.com/rajatkumar1011">
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
   </a>
+--->
 
   <a href="https://github.com/rajatkumar1011">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
