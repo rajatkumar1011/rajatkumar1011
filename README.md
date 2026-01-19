@@ -72,11 +72,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
   </a>
 
-<!---  <a href="https://github.com/rajatkumar1011">
-    <img src="http://github-readme-streak-stats.herokuapp.com/?user=rajatkumar1011&hide_border=true&card_width=338&theme=transparent" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=rajatkumar1011&theme=dark&hide_border=true" alt="GitHub Streak" />
   </a>
---->
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rajatkumar1011&theme=dark" alt="GitHub Streak" /></a>
 
   <a href="https://github.com/rajatkumar1011">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
