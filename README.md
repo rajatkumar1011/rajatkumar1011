@@ -12,12 +12,10 @@
   <br>
     <div align="center">
 
-<!--
 <a href="https://linkedin.com/in/rajatkumar7"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/rajatkumar1"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/rajatkumar7"><img src="https://img.shields.io/badge/CODECHEF-964B00?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/rajatkumar.1"><img src="https://img.shields.io/badge/CODEFORCES-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
--->
 
 </div>
 
@@ -32,7 +30,7 @@
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/rajatkumar1011)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/rajatkumar1011)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/rajatkumar1011)
-[![Prolog](https://img.shields.io/badge/prolog-black?style=for-the-badge&logo=prolog)](https://github.com/rajatkumar1011
+[![Prolog](https://img.shields.io/badge/prolog-black?style=for-the-badge&logo=prolog)](https://github.com/rajatkumar1011)
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/rajatkumar1011)
