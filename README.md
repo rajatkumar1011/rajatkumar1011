@@ -24,13 +24,15 @@
 </p>
 
 ### Languages
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/rajatkumar1011)
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/rajatkumar1011)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/rajatkumar1011)
+[![R](https://img.shields.io/badge/r-black?style=for-the-badge&logo=r)](https://github.com/rajatkumar1011)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/rajatkumar1011)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/rajatkumar1011)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/rajatkumar1011)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/rajatkumar1011)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/rajatkumar1011)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/rajatkumar1011)
+[![Prolog](https://img.shields.io/badge/prolog-black?style=for-the-badge&logo=prolog)](https://github.com/rajatkumar1011
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/rajatkumar1011)
@@ -61,6 +63,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/rajatkumar1011)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/rajatkumar1011)
+[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOS)](https://github.com/rajatkumar1011)
 
 ### Github Stats
 
@@ -71,10 +74,10 @@
   <a href="https://github.com/rajatkumar1011">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajatkumar1011&theme=transparent" />
   </a>
-<!--
+
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=rajatkumar1011&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>  -->
+  </a>
 
   <a href="https://github.com/rajatkumar1011">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajatkumar1011&theme=transparent" />
