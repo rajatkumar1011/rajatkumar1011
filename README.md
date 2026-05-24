@@ -2,7 +2,6 @@
   <img loading="lazy" src="resources/intro_banner_animation.gif" alt="https://rajatkumar1.me"/>
 </a>
 
-
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <span>I'm Rajat Kumar, a passionate coder exploring the realms of technology!</span>
@@ -89,3 +88,4 @@
   <div align="center">
        <img src="https://komarev.com/ghpvc/?username=rajatkumar1011" alt="Profile Views"/>
   </div>
+<!-- testing -->
