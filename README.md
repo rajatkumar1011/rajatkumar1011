@@ -41,7 +41,7 @@
 
 | Project | What it does | Stack |
 | :-- | :-- | :-- |
-| **[DeepTrace](https://github.com/rajatkumar1011/DeepTrace)** | Impersonation & media-forensics prototype — ingests image, video or audio, computes integrity hashes and extracts metadata for evidence handling. | `Python` |
+| **[DeepTrace](https://github.com/rajatkumar1011/DeepTrace)** | Impersonation & media-forensics prototype — ingests image, video or audio, computes integrity hashes and extracts metadata for evidence handling. | `Python` `FastAPI` `NextJS` `PyTorch` `SQLite` |
 | **[Tetris](https://github.com/rajatkumar1011/tetris)** | Neon, fully responsive Tetris with scoring, rising difficulty and a next-piece preview. | `JS` `Canvas` |
 | **[F1-Predictor](https://github.com/rajatkumar1011/F1-Predictor)** | Formula 1 race-outcome predictor that runs entirely in the browser. | `JS` `HTML` |
 | **[AQI-Monitor](https://github.com/rajatkumar1011/AQI-Monitor)** | Live air-quality dashboard with at-a-glance readings. | `JS` `HTML` |
