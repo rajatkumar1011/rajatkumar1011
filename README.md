@@ -15,7 +15,7 @@
 
 **Passionate coder exploring the realms of technology.**
 
-[![Website](https://img.shields.io/badge/rajatkumar1.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajatkumar1.me)
+<!--[![Website](https://img.shields.io/badge/rajatkumar1.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rajatkumar1.me)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajatkumar7)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajatkumar1)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rajatkumar7)
@@ -27,7 +27,7 @@
 </div>
 
 ---
-
+<!--
 ### About
 
 - 🔭 I build **self-contained single-page apps** — a QR generator, a Tetris clone, a PDF→Word converter — open one file and it just works.
@@ -36,7 +36,7 @@
 - 🌏 Based in **Mumbai, India** — more of my work lives at **[rajatkumar1.me](https://rajatkumar1.me)**.
 
 ---
-
+-->
 ### Featured Projects
 
 | Project | What it does | Stack |
