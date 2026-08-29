@@ -1,13 +1,8 @@
-<!--
-  Rajat Kumar · github.com/rajatkumar1011
-  To restore the animated banner, commit the gif to resources/ and uncomment:
-
-  <p align="center">
+<p align="center">
     <a href="https://rajatkumar1.me">
       <img src="resources/intro_banner_animation.gif" alt="Rajat Kumar" loading="lazy" />
     </a>
-  </p>
--->
+</p>
 
 <div align="center">
 
