@@ -6,7 +6,6 @@
 
 <div align="center">
 
-# Rajat Kumar
 
 **Passionate coder exploring the realms of technology.**
 
