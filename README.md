@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://rajatkumar1.me">
-      <img src="resources/intro_banner_animation.gif" alt="Rajat Kumar" loading="lazy" />
+    <a href="https://rajatkumar.work.gd">
+      <img src="intro_banner_animation.gif" alt="Rajat Kumar" loading="lazy" />
     </a>
 </p>
 
