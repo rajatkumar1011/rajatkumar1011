@@ -15,7 +15,6 @@
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rajatkumar7)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rajatkumar.1)
 
-[![WakaTime](https://wakatime.com/badge/user/7b631ad4-445a-4e1f-a9df-ba2c6f2b6858.svg?style=flat-square)](https://wakatime.com/@7b631ad4-445a-4e1f-a9df-ba2c6f2b6858)
 ![Profile views](https://komarev.com/ghpvc/?username=rajatkumar1011&style=flat-square&color=blue&label=profile+views)
 
 </div>
